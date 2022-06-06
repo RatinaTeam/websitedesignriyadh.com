@@ -86,7 +86,7 @@
         "main": true,
         "title": "تصميم المواقع إلكترونية في الرياض | تصميم مواقع للشركات والافراد | افضل شركة لتصميم الموقع في السعودية",
         "meta_descr": "تصميم المواقع وفقاً للمعايير العالمية فى صناعة البرمجيات و بإستخدام أحدث الأساليب المتاحة فى عالم البرمجيات, ",
-        "header_custom": "",
+        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-216489809-2\">\n</script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-216489809-2');\n</script>",
         "footer_custom": "",
         "html_before": ""
       },
