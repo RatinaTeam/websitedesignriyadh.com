@@ -6,35 +6,35 @@ form .row [class*=col]{padding-left:0.6rem;padding-right:0.6rem}form .mbr-sectio
   font-family: Urbanist;
 }
 .display-1 {
-  font-family: 'ArbFONTS-ExpoArabic-Book';
+  font-family: 'IBM Plex Sans Arabic', sans-serif;
   font-size: 4rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 5rem;
 }
 .display-2 {
-  font-family: 'ArbFONTS-ExpoArabic-Book';
+  font-family: 'IBM Plex Sans Arabic', sans-serif;
   font-size: 2rem;
 }
 .display-2 > .mbr-iconfont {
   font-size: 2.5rem;
 }
 .display-4 {
-  font-family: 'ArbFONTS-ExpoArabic-Book';
+  font-family: 'IBM Plex Sans Arabic', sans-serif;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.25rem;
 }
 .display-5 {
-  font-family: 'ArbFONTS-ExpoArabic-Book';
+  font-family: 'IBM Plex Sans Arabic', sans-serif;
   font-size: 1.8rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 2.25rem;
 }
 .display-7 {
-  font-family: 'ArbFONTS-ExpoArabic-Book';
+  font-family: 'IBM Plex Sans Arabic', sans-serif;
   font-size: 1.1rem;
 }
 .display-7 > .mbr-iconfont {
