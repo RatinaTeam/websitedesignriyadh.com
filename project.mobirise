@@ -76,16 +76,17 @@
     "versionPublish": "5.6.13",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/saudi-icon-128x128.png",
-    "mbrsiteDomain": "zudkupznjt",
+    "mbrsiteDomain": "j3bvs4ldz9",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "global_header_custom": "<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js\"></script>\n<script  src=\"https://cdn.ratina.co/js/ggdata.js?c=b&l=en\" ></script>\n<!-- TrafficGuard Integration -->\n<script>\n    var dataTrafficGuard = dataTrafficGuard || [];\n    dataTrafficGuard.push(['property', 'tg-009463-001']);\n    dataTrafficGuard.push(['event','pageview']);\n    (function() {var tg = document.createElement('script'); tg.type = 'text/javascript'; tg.async = true; tg.src = '//tgtag.io/tg.js?pid=tg-009463-001';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(tg, s);})();\n</script>\n<noscript><img src=\"//p.tgtag.io/event?property_id=tg-009463-001&event_name=pageview&no_script=1\" width=\"1\" height=\"1\" border=\"0\"/></noscript>\n<!-- TrafficGuard End-->\n",
+    "global_header_custom": "",
     "global_footer_custom": "<script src=\"assets/ctrl.js\"></script>",
-    "global_after_body": ""
+    "global_after_body": "",
+    "global_before_html": "<!-- TrafficGuard Integration -->\n<script>\n    var dataTrafficGuard = dataTrafficGuard || [];\n    dataTrafficGuard.push(['property', 'tg-009463-001']);\n    dataTrafficGuard.push(['event','pageview']);\n    (function() {var tg = document.createElement('script'); tg.type = 'text/javascript'; tg.async = true; tg.src = '//tgtag.io/tg.js?pid=tg-009463-001';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(tg, s);})();\n</script>\n<noscript><img src=\"//p.tgtag.io/event?property_id=tg-009463-001&event_name=pageview&no_script=1\" width=\"1\" height=\"1\" border=\"0\"/></noscript>\n<!-- TrafficGuard End-->\n"
   },
   "pages": {
     "index.html": {
